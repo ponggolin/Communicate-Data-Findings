@@ -1,0 +1,8 @@
+makedirs: https://thispointer.com/how-to-create-a-directory-in-python/
+zfill: https://www.tutorialspoint.com/python3/string_zfill.htm
+requests: https://www.codementor.io/aviaryan/downloading-files-from-urls-in-python-77q3bs0un
+zipfile: https://www.geeksforgeeks.org/working-zip-files-python/
+BitesIO: https://stackoverflow.com/questions/42800250/difference-between-open-and-io-bytesio-in-binary-streams
+extractall: https://kite.com/python/docs/zipfile.ZipFile.extractall
+
+
