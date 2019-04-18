@@ -4,5 +4,7 @@ requests: https://www.codementor.io/aviaryan/downloading-files-from-urls-in-pyth
 zipfile: https://www.geeksforgeeks.org/working-zip-files-python/
 BitesIO: https://stackoverflow.com/questions/42800250/difference-between-open-and-io-bytesio-in-binary-streams
 extractall: https://kite.com/python/docs/zipfile.ZipFile.extractall
+pandas.Series.map: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.map.html
+pandas.core.groupby.DataFrameGroupBy.agg: https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.core.groupby.DataFrameGroupBy.agg.html
 
 
