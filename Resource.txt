@@ -6,5 +6,6 @@ BitesIO: https://stackoverflow.com/questions/42800250/difference-between-open-an
 extractall: https://kite.com/python/docs/zipfile.ZipFile.extractall
 pandas.Series.map: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.map.html
 pandas.core.groupby.DataFrameGroupBy.agg: https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.core.groupby.DataFrameGroupBy.agg.html
-
+violinplot: https://seaborn.pydata.org/generated/seaborn.violinplot.html
+pandas.DataFrame.loc:https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html
 
