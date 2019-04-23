@@ -8,4 +8,7 @@ pandas.Series.map: https://pandas.pydata.org/pandas-docs/stable/reference/api/pa
 pandas.core.groupby.DataFrameGroupBy.agg: https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.core.groupby.DataFrameGroupBy.agg.html
 violinplot: https://seaborn.pydata.org/generated/seaborn.violinplot.html
 pandas.DataFrame.loc:https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html
-
+subplot: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.subplot.html
+heatmap: https://seaborn.pydata.org/generated/seaborn.heatmap.html
+colormaps: https://matplotlib.org/users/colormaps.html
+github: https://github.com/burakgunbatan/UdacityProject---CommunicateDataFindings
