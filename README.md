@@ -17,17 +17,17 @@ Male users in the age of 20 to 40 are the main users of Ford Gobike service. Amo
 
 ## Resource
 
-makedirs: https://thispointer.com/how-to-create-a-directory-in-python/
-zfill: https://www.tutorialspoint.com/python3/string_zfill.htm
-requests: https://www.codementor.io/aviaryan/downloading-files-from-urls-in-python-77q3bs0un
-zipfile: https://www.geeksforgeeks.org/working-zip-files-python/
-BitesIO: https://stackoverflow.com/questions/42800250/difference-between-open-and-io-bytesio-in-binary-streams
-extractall: https://kite.com/python/docs/zipfile.ZipFile.extractall
-pandas.Series.map: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.map.html
-pandas.core.groupby.DataFrameGroupBy.agg: https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.core.groupby.DataFrameGroupBy.agg.html
-violinplot: https://seaborn.pydata.org/generated/seaborn.violinplot.html
-pandas.DataFrame.loc:https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html
-subplot: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.subplot.html
-heatmap: https://seaborn.pydata.org/generated/seaborn.heatmap.html
-colormaps: https://matplotlib.org/users/colormaps.html
-github: https://github.com/burakgunbatan/UdacityProject---CommunicateDataFindings
+- makedirs: https://thispointer.com/how-to-create-a-directory-in-python/
+- zfill: https://www.tutorialspoint.com/python3/string_zfill.htm
+- requests: https://www.codementor.io/aviaryan/downloading-files-from-urls-in-python-77q3bs0un
+- zipfile: https://www.geeksforgeeks.org/working-zip-files-python/
+- BitesIO: https://stackoverflow.com/questions/42800250/difference-between-open-and-io-bytesio-in-binary-streams
+- extractall: https://kite.com/python/docs/zipfile.ZipFile.extractall
+- pandas.Series.map: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.map.html
+- pandas.core.groupby.DataFrameGroupBy.agg: https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.core.groupby.DataFrameGroupBy.agg.html
+- violinplot: https://seaborn.pydata.org/generated/seaborn.violinplot.html
+- pandas.DataFrame.loc:https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html
+- subplot: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.subplot.html
+- heatmap: https://seaborn.pydata.org/generated/seaborn.heatmap.html
+- colormaps: https://matplotlib.org/users/colormaps.html
+- github: https://github.com/burakgunbatan/UdacityProject---CommunicateDataFindings
